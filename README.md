@@ -100,3 +100,4 @@ These applications demonstrate generative AI’s versatility and growing impact 
 
 
 # Result
+hus the Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs) is created successfully.
